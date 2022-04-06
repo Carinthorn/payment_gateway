@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "payment_gateway",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5502
+  }
+}
